@@ -29,7 +29,7 @@ to be honest, I understoodnd webgl more deeply during I was developing this fram
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
 
-## Recips(Demos)
+## Recips(Examples)
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 
