@@ -35,9 +35,11 @@ to be honest, I understoodnd webgl more deeply during I was developing this fram
 
 ### [tubugl-2d-shape](https://github.com/kenjiSpecial/tubugl-2d-shape)
 
+### [tubugl-3d-shape](https://github.com/kenjiSpecial/tubugl-3d-shape)
+
 ### [tubugl-camera](https://github.com/kenjiSpecial/tubugl-camera)
 
-## Recips(Examples)
+## Recipes(Examples)
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 
