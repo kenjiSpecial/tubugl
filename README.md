@@ -1,7 +1,7 @@
 # tubugl
 module base webgl framework for personal use
 
-## concept
+## Concept
 
 three.js is easy, fun to develop webgl.
 
@@ -25,14 +25,17 @@ you can understand what webgl is more, can understand why many people use three.
 
 to be honest, I understoodnd webgl more deeply during I was developing this framework.
 
-## main modules
+## Main modules
 
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core)
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
 
-## sub modules
+## Sub modules
 
+### [tubugl-2d-shape](https://github.com/kenjiSpecial/tubugl-2d-shape)
+
+### [tubugl-camera](https://github.com/kenjiSpecial/tubugl-camera)
 
 ## Recips(Examples)
 
