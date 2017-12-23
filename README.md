@@ -10,7 +10,7 @@ three.js is easy, fun to develop webgl.
 
 webgl from scratch( I call it plain webgl) is pain, hard. 
 
-it takes MUCH MORE TIME AND ERRORS to develop than three.js.
+it takes MUCH MORE TIME to develop than three.js.
 
 it's hard to understand how webgl works and how matrix works like camera when you keep using only three.js.
 
