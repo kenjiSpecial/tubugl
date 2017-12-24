@@ -34,6 +34,8 @@ to be honest, I understoodnd webgl more deeply during I was developing this fram
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
 
+### [tubugl-utils](https://github.com/kenjiSpecial/tubugl-utils)
+
 ### [tubugl-math](https://github.com/kenjiSpecial/tubugl-math)
 
 ## Sub modules
