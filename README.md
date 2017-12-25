@@ -53,7 +53,7 @@ to be honest, I understoodnd webgl more deeply during I was developing this fram
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 
 
-## referrences
+## Referrences
 
 - [three.js](https://github.com/mrdoob/three.js/)
 - [nanogl](https://github.com/plepers/nanogl/)
