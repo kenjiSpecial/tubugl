@@ -59,7 +59,7 @@ many examples which was developed with tubugl main mobules or sub modules.
 
 ## Kyoshitsu
 
-basic note and small research on graphic rendering topics such as texture, lighting, performance.
+basic note and small research on graphic rendering topics such as texture, lighting, performance, etc.
 
 
 ## Referrences
