@@ -49,7 +49,7 @@ page: https://kenjispecial.github.io/tubugl-3d-shape/
 
 ### [tubugl-helper](https://github.com/kenjiSpecial/tubugl-helper)
 
-## Recipes(Examples)
+## Cookbook Recipes
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 
