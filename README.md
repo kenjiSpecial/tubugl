@@ -30,6 +30,8 @@ to be honest, I understoodnd webgl more deeply during I was developing this fram
 
 ## Main modules
 
+main parts for tubugl. 
+
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core)
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
@@ -39,6 +41,8 @@ to be honest, I understoodnd webgl more deeply during I was developing this fram
 ### [tubugl-math](https://github.com/kenjiSpecial/tubugl-math)
 
 ## Sub modules
+
+handy modules which was developed with tubugl main modules. it's easy and convenient to develop webgl with sub modules.
 
 ### [tubugl-2d-shape](https://github.com/kenjiSpecial/tubugl-2d-shape)
 
@@ -51,9 +55,13 @@ examples: https://kenjispecial.github.io/tubugl-3d-shape/
 
 ## Cookbook Recipes
 
+many examples which was developed with tubugl main mobules or sub modules.
+
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 
 ## Kyoshitsu(basic note + small research)
+
+basic note and small research on graphic rendering topis such as texture, lighting, performance.
 
 
 ## Referrences
