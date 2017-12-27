@@ -43,6 +43,7 @@ main parts for tubugl.
 handy modules which was developed with tubugl main modules. it's easy and convenient to develop webgl with sub modules.
 
 ### [tubugl-2d-shape](https://github.com/kenjiSpecial/tubugl-2d-shape)
+examples: https://kenjispecial.github.io/tubugl-2d-shape/
 
 ### [tubugl-3d-shape](https://github.com/kenjiSpecial/tubugl-3d-shape)
 examples: https://kenjispecial.github.io/tubugl-3d-shape/
@@ -50,6 +51,7 @@ examples: https://kenjispecial.github.io/tubugl-3d-shape/
 ### [tubugl-camera](https://github.com/kenjiSpecial/tubugl-camera)
 
 ### [tubugl-helper](https://github.com/kenjiSpecial/tubugl-helper)
+examples: https://kenjispecial.github.io/tubugl-helper/
 
 ## Cookbook Recipes
 
