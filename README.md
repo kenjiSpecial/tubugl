@@ -57,7 +57,7 @@ many examples which was developed with tubugl main mobules or sub modules.
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 
-## Kyoshitsu(basic note + small research)
+## Kyoshitsu
 
 basic note and small research on graphic rendering topics such as texture, lighting, performance.
 
