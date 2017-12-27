@@ -10,7 +10,7 @@ three.js is easy, fun to develop webgl.
 
 webgl from scratch( I call it plain webgl) is pain, hard. 
 
-it takes MUCH MORE TIME to develop than three.js.
+it takes MUCH MORE TIME to develop with plain webgl than with three.js.
 
 it's hard to understand how webgl works and how matrix works like camera when you keep using only three.js.
 
@@ -59,7 +59,7 @@ many examples which was developed with tubugl main mobules or sub modules.
 
 ## Kyoshitsu(basic note + small research)
 
-basic note and small research on graphic rendering topis such as texture, lighting, performance.
+basic note and small research on graphic rendering topics such as texture, lighting, performance.
 
 
 ## Referrences
