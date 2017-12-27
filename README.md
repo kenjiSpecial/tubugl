@@ -24,9 +24,7 @@ More Pain, More Gain.
 
 you can understand how webgl wroks and how matrix works more deeply with tubugl.
 
-you can understand what webgl is more, can understand why many people use three.js insted of plain webgl.
-
-to be honest, I understoodnd webgl more deeply during I was developing this framework.
+to be honest, I understoodnd webgl more deeply during I was developing tubugl modules.
 
 ## Main modules
 
