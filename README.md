@@ -58,6 +58,7 @@ examples: https://kenjispecial.github.io/tubugl-helper/
 many examples which was developed with tubugl main mobules or sub modules.
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
+examples: https://kenjispecial.github.io/tubugl-recipes/
 
 ## Kyoshitsu
 
