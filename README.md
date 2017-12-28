@@ -11,12 +11,16 @@ it's more like developing webgl from scratch.
 main parts for tubugl. 
 
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core)
+rendering module such as program class and bufferArray class.
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
+module for webgl contatns value
 
 ### [tubugl-utils](https://github.com/kenjiSpecial/tubugl-utils)
+utility function module for tubugl
 
 ### [tubugl-math](https://github.com/kenjiSpecial/tubugl-math)
+math module for tubugl
 
 ## Sub modules
 
