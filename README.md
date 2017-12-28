@@ -1,30 +1,10 @@
 # tubugl
-module base webgl framework for personal use
+module base webgl framework for personal use.
+
+it's more like developing webgl from scratch.
 
 ![](https://media.giphy.com/media/A9fBChN4s0wXS/giphy.gif)
 
-
-## Concept
-
-three.js is easy, fun to develop webgl.
-
-webgl from scratch( I call it plain webgl) is pain, hard. 
-
-it takes MUCH MORE TIME to develop with plain webgl than with three.js.
-
-it's hard to understand how webgl works and how matrix works like camera when you keep using only three.js.
-
-three.js is very smart, handy. you can make basic stuff even without knowledge of shader, program, and buffer.
-
-tubugl is moduble base micro webgl framework which you can develop webgl like scratch.
-
-You feel more pain with tubugl than three.js.
-
-More Pain, More Gain.
-
-you can understand how webgl wroks and how matrix works more deeply with tubugl.
-
-to be honest, I understoodnd webgl more deeply during I was developing tubugl modules.
 
 ## Main modules
 
