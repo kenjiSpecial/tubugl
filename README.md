@@ -33,6 +33,7 @@ examples: https://kenjispecial.github.io/tubugl-2d-shape/
 examples: https://kenjispecial.github.io/tubugl-3d-shape/
 
 ### [tubugl-camera](https://github.com/kenjiSpecial/tubugl-camera)
+examples: https://kenjispecial.github.io/tubugl-camera/
 
 ### [tubugl-helper](https://github.com/kenjiSpecial/tubugl-helper)
 examples: https://kenjispecial.github.io/tubugl-helper/
