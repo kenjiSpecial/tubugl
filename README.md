@@ -8,7 +8,7 @@ it's more like developing webgl from scratch.
 
 ## Main modules
 
-main parts for tubugl. 
+main parts for rendering with tubugl. 
 
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core)
 rendering module such as program class and bufferArray class.
