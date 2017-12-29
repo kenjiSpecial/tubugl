@@ -8,13 +8,13 @@ it's more like developing webgl from scratch.
 
 ## Main modules
 
-main parts for rendering with tubugl. 
+main parts for rendering of webgl with tubugl. 
 
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core)
-rendering module such as program class and bufferArray class.
+core module for rendering such as program class and bufferArray class.
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
-module for webgl contatns value
+module for webgl contatns value collection
 
 ### [tubugl-utils](https://github.com/kenjiSpecial/tubugl-utils)
 utility function module for tubugl
