@@ -1,5 +1,5 @@
 # tubugl
-module base webgl framework for personal use.
+module base webgl library for personal use.
 
 it's more like developing webgl from scratch.
 
