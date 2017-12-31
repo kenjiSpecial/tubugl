@@ -60,3 +60,4 @@ basic note and small research on graphic rendering topics such as texture, light
 - [nanogl](https://github.com/plepers/nanogl/)
 - [stack.gl](http://stack.gl/)
 - [picogl](https://tsherif.github.io/picogl.js/)
+- [regl](https://github.com/regl-project/regl)
