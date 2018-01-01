@@ -41,6 +41,12 @@ examples: https://kenjispecial.github.io/tubugl-camera/
 ### [tubugl-helper](https://github.com/kenjiSpecial/tubugl-helper)
 examples: https://kenjispecial.github.io/tubugl-helper/
 
+### [tubugl-helper](https://github.com/kenjiSpecial/tubugl-helper)
+examples: https://kenjispecial.github.io/tubugl-helper/
+
+### [tubugl-gpgpu](https://github.com/kenjiSpecial/tubugl-gpgpu)
+examples: https://kenjispecial.github.io/tubugl-gpgpu/
+
 ## Cookbook Recipes
 
 many examples which was developed with tubugl main mobules or sub modules.
