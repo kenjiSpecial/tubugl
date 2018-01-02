@@ -46,7 +46,7 @@ examples: https://kenjispecial.github.io/tubugl-gpgpu/
 
 ## Cookbook Recipes
 
-many examples which was developed with tubugl main mobules or sub modules.
+examples and codes which were developed with tubugl main mobules or sub modules.
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
 examples: https://kenjispecial.github.io/tubugl-recipes/
