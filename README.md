@@ -44,12 +44,15 @@ examples: https://kenjispecial.github.io/tubugl-helper/
 ### [tubugl-gpgpu](https://github.com/kenjiSpecial/tubugl-gpgpu)
 examples: https://kenjispecial.github.io/tubugl-gpgpu/
 
+### [tubugl-font](https://github.com/kenjiSpecial/tubugl-font)
+examples: 
+
 ## Cookbook Recipes
 
 examples and codes which were developed with tubugl main mobules or sub modules.
 
 ### [tubugl-recipes](https://github.com/kenjiSpecial/tubugl-recipes)
-examples: https://kenjispecial.github.io/tubugl-recipes/
+examples: https://kenjispecial.github.io/tubugl-font/
 
 ## Kyoshitsu
 
