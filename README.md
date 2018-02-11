@@ -14,6 +14,7 @@ main parts for rendering of webgl with tubugl.
 [![NPM version][tubugl-core-npm-image]][tubugl-core-npm-url] 
 
 core module for rendering such as program class and bufferArray class.
+API: [https://kenjispecial.github.io/tubugl-core/api/](https://kenjispecial.github.io/tubugl-core/api/)
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
 [![NPM version][tubugl-constants-npm-image]][tubugl-constants-npm-url] 
