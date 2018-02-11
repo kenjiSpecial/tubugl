@@ -11,9 +11,9 @@ it's more like developing webgl from scratch.
 main parts for rendering of webgl with tubugl. 
 
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core) 
-[![NPM version][tubugl-core-npm-image]][tubugl-core-npm-url] [API](https://kenjispecial.github.io/tubugl-core/api/)
+[![NPM version][tubugl-core-npm-image]][tubugl-core-npm-url] 
 
-core module for rendering such as program class and bufferArray class.
+core module for rendering such as program class and bufferArray class | [API Doc](https://kenjispecial.github.io/tubugl-core/api/)
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
 [![NPM version][tubugl-constants-npm-image]][tubugl-constants-npm-url] 
