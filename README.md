@@ -1,26 +1,31 @@
 # tubugl
-module base webgl library for personal use.
-
-it's more like developing webgl from scratch.
+module base micro webgl framework.
 
 ![](https://media.giphy.com/media/A9fBChN4s0wXS/giphy.gif)
+
+tubugl are composed of 4 parts.
+
+1. main module (webgl/webgl2 rendering modules and utlity functions)
+2. sub module (handy modules for projects and prottypes made from main modules)
+3. cook receipes (examples made from main module and sub modules)
+4. kyoshistu (basic notes and researches for computer graphics using tubugl mainmodules/submodes)
 
 
 ## Main modules
 
-main parts for rendering of webgl with tubugl. 
+main parts for webgl rendering with tubugl. 
 
 ### [tubugl-core](https://github.com/kenjiSpecial/tubugl-core) 
 [![NPM version][tubugl-core-npm-image]][tubugl-core-npm-url] 
 
-core module for rendering such as program class and bufferArray class.
+Core rendering module. there are class which used for program, buffer, framebuffer, and etc.
 
 [API Doc](https://kenjispecial.github.io/tubugl-core/api/)
 
 ### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
 [![NPM version][tubugl-constants-npm-image]][tubugl-constants-npm-url] 
 
-module for webgl contatns value collection
+module for webgl constant value collection
 
 ### [tubugl-utils](https://github.com/kenjiSpecial/tubugl-utils)
 [![NPM version][tubugl-utils-npm-image]][tubugl-utils-npm-url] 
@@ -30,7 +35,7 @@ utility function module for tubugl
 ### [tubugl-math](https://github.com/kenjiSpecial/tubugl-math)
 [![NPM version][tubugl-math-npm-image]][tubugl-math-npm-url] 
 
-math module for tubugl
+math function module for tubugl
 
 
 [tubugl-core-npm-image]: https://img.shields.io/npm/v/tubugl-core.svg?style=flat-square
