@@ -126,6 +126,9 @@ basic note and small research on graphic rendering topics such as texture, light
 ### [tubugl-lighting-kyoshitsu](https://github.com/kenjiSpecial/tubugl-lighting-kyoshitsu)
 examples: https://kenjispecial.github.io/tubugl-lighting-kyoshitsu/
 
+### [tubugl-material-kyoshitsu](https://github.com/kenjiSpecial/tubugl-material-kyoshitsu)
+examples: https://kenjispecial.github.io/tubugl-material-kyoshitsu/
+
 ## Trash Box
 
 
