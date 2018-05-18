@@ -22,10 +22,6 @@ Core rendering module. there are class which used for program, buffer, framebuff
 
 [API Doc](https://kenjispecial.github.io/tubugl-core/api/)
 
-### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
-[![NPM version][tubugl-constants-npm-image]][tubugl-constants-npm-url] 
-
-module for webgl constant value collection
 
 ### [tubugl-utils](https://github.com/kenjiSpecial/tubugl-utils)
 [![NPM version][tubugl-utils-npm-image]][tubugl-utils-npm-url] 
@@ -88,6 +84,12 @@ examples: https://kenjispecial.github.io/tubugl-gpgpu/
 [![NPM version][tubugl-font-npm-image]][tubugl-font-npm-url]
 
 examples: https://kenjispecial.github.io/tubugl-font/
+
+### [tubugl-consntas](https://github.com/kenjiSpecial/tubugl-constants)
+[![NPM version][tubugl-constants-npm-image]][tubugl-constants-npm-url] 
+
+module for webgl constant value collection
+
 
 
 [tubugl-2d-npm-image]: https://img.shields.io/npm/v/tubugl-2d-shape.svg?style=flat-square
