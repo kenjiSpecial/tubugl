@@ -73,6 +73,9 @@ examples: https://kenjispecial.github.io/tubugl-camera/
 ### [tubugl-helper](https://github.com/kenjiSpecial/tubugl-helper)
 [![NPM version][tubugl-helper-npm-image]][tubugl-helper-npm-url]
 
+### [tubugl-debug](https://github.com/kenjiSpecial/tubugl-debug)
+[![NPM version][tubugl-debug-npm-image]][tubugl-debug-npm-url]
+
 examples: https://kenjispecial.github.io/tubugl-helper/
 
 ### [tubugl-gpgpu](https://github.com/kenjiSpecial/tubugl-gpgpu)
@@ -106,6 +109,9 @@ module for webgl constant value collection
 
 [tubugl-helper-npm-image]: https://img.shields.io/npm/v/tubugl-helper.svg?style=flat-square
 [tubugl-helper-npm-url]: https://www.npmjs.com/package/tubugl-helper
+
+[tubugl-helper-debug-image]: https://img.shields.io/npm/v/tubugl-debug.svg?style=flat-square
+[tubugl-helper-debug-url]: https://www.npmjs.com/package/tubugl-debug
 
 [tubugl-gpgpu-npm-image]: https://img.shields.io/npm/v/tubugl-gpgpu.svg?style=flat-square
 [tubugl-gpgpu-npm-url]: https://www.npmjs.com/package/tubugl-gpgpu
