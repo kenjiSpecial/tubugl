@@ -78,6 +78,9 @@ examples: https://kenjispecial.github.io/tubugl-helper/
 ### [tubugl-debug](https://github.com/kenjiSpecial/tubugl-debug)
 [![NPM version][tubugl-debug-npm-image]][tubugl-debug-npm-url]
 
+### [tubugl-generate-geometry](https://github.com/kenjiSpecial/tubugl-generate-geometry)
+[![NPM version][tubugl-generate-geometry-image]][tubugl-generate-geometry-npm-url]
+
 examples: https://kenjispecial.github.io/tubugl-debug/
 
 ### [tubugl-gpgpu](https://github.com/kenjiSpecial/tubugl-gpgpu)
@@ -120,6 +123,10 @@ module for webgl constant value collection
 
 [tubugl-font-npm-image]: https://img.shields.io/npm/v/tubugl-font.svg?style=flat-square
 [tubugl-font-npm-url]: https://www.npmjs.com/package/tubugl-font
+
+[tubugl-generate-geometry-image]: ttps://img.shields.io/npm/v/tubugl-generate-geometry.svg?style=flat-square
+[tubugl-generate-geometry-npm-url]: https://www.npmjs.com/package/tubugl-generate-geometry
+
 
 
 ## Cookbook Recipes
