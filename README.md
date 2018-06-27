@@ -157,3 +157,8 @@ examples: https://kenjispecial.github.io/tubugl-material-kyoshitsu/
 - [picogl](https://tsherif.github.io/picogl.js/)
 - [regl](https://github.com/regl-project/regl)
 - https://github.com/tsherif/webgl2examples
+
+
+## TODO
+
+- [ ] Update all rollup config
