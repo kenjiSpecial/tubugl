@@ -5,10 +5,10 @@ module base micro webgl framework.
 
 tubugl are composed of 4 parts.
 
-1. main module (webgl/webgl2 rendering modules and utlity functions)
-2. sub module (handy modules for projects and prottypes made from main modules)
-3. cook receipes (examples made from main module and sub modules)
-4. kyoshistu (教室　basic notes and researches for computer graphics using tubugl mainmodules/submodes)
+1. [main module](https://github.com/kenjiSpecial/tubugl/blob/master/README.md#main-modules)(webgl/webgl2 rendering modules and utlity functions)
+2. [sub module](https://github.com/kenjiSpecial/tubugl/blob/master/README.md#sub-modules) (handy modules for projects and prottypes made from main modules)
+3. [cook receipes](https://github.com/kenjiSpecial/tubugl/blob/master/README.md#cookbook-recipes) (examples made from main module and sub modules)
+4. [kyoshistu](https://github.com/kenjiSpecial/tubugl/blob/master/README.md#kyoshitsu) (教室　basic notes and researches for computer graphics using tubugl mainmodules/submodes)
 5. datsu-sha-ri (脱捨離 all necessessary modules into one with minimum functionarity)  
 
 ## Main modules
