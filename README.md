@@ -8,8 +8,8 @@ tubugl are composed of 4 parts.
 1. main module (webgl/webgl2 rendering modules and utlity functions)
 2. sub module (handy modules for projects and prottypes made from main modules)
 3. cook receipes (examples made from main module and sub modules)
-4. kyoshistu (basic notes and researches for computer graphics using tubugl mainmodules/submodes)
-
+4. kyoshistu (教室　basic notes and researches for computer graphics using tubugl mainmodules/submodes)
+5. datsu-sha-ri (脱捨離 all necessessary modules into one with minimum functionarity)  
 
 ## Main modules
 
@@ -145,6 +145,8 @@ examples: https://kenjispecial.github.io/tubugl-lighting-kyoshitsu/
 
 ### [tubugl-material-kyoshitsu](https://github.com/kenjiSpecial/tubugl-material-kyoshitsu)
 examples: https://kenjispecial.github.io/tubugl-material-kyoshitsu/
+
+
 
 ## Trash Box
 
